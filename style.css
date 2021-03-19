@@ -1,0 +1,55 @@
+header{
+  background-color: tomato;
+  padding: 10px;
+  text-align: center; 
+}
+ul
+{
+  list-style: none;
+}
+li{
+  display: inline;
+  margin: 50px;
+}
+li a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Rubik';
+}
+li a:hover{
+  color: white;
+}
+h1{
+  color: black;
+  font size: 150%;
+  text-shadow: 2px 2px white;
+  font-size: xx-large;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2{
+  color: black;
+  font-family: 'Rubik';
+  }
+  hr{
+    padding: 2px;
+  }
+  h4{
+    font-family: 'Rubik';
+  }
+  footer{
+    background-color: tomato;
+    text-align: center;
+    font-family: monospace;
+    padding: 8px;
+  }
+
