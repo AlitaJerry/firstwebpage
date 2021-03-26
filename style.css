@@ -1,4 +1,40 @@
-header{
+.container-fluid{
+  font-family: montserrat;
+}
+a{
+  color: black;
+}
+.carousel-inner{
+  font-family: montserrat;
+}
+h2{
+  font-family: montserrat;
+}
+.col{
+  font-family: montserrat;
+}
+.chicken{
+  height: 50px;
+}
+.container1{
+  display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header{
   background-color: tomato;
   padding: 10px;
   text-align: center; 
@@ -20,10 +56,18 @@ li a:hover{
   color: white;
 }
 h1{
-  color: black;
+  color: tomato;
   font size: 150%;
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px red;
   font-size: xx-large;
+  background-color: black;
+  padding: 3px;
+}
+h3{
+  color: tomato;
+  text-shadow: 1px 1px black;
+  background-color: white;
+  padding: 2px;
 }
 .container {
   position: relative;
@@ -42,8 +86,12 @@ h2{
   }
   hr{
     padding: 2px;
+    background-color: black;
   }
   h4{
+    font-family: 'Rubik';
+  }
+  p{
     font-family: 'Rubik';
   }
   footer{
@@ -52,4 +100,4 @@ h2{
     font-family: monospace;
     padding: 8px;
   }
-
+*/
